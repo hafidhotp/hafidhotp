@@ -6,7 +6,7 @@
 
  ![hafidhotp](https://komarev.com/ghpvc/?username=hafidhotp&color=green)
 
-- 🧑🏻‍🔬 I'm an electronics enthusiast
+- 👨🏻‍🔬 I'm an electronics enthusiast
 - 🔭 I’m currently working on IOT based Home Automation
 - 🌱 I’m currently Pursuing Bachelor Degree in Electronics and Communiation 
 - 👯 I’m looking to collaborate on Home Automation Projects
@@ -30,9 +30,12 @@
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Arduino](https://img.shields.io/badge/-Arduino-96D9D9?style=flat-square&logo=Arduino)
 
 
 
